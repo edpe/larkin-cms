@@ -24,6 +24,9 @@
     },
     "author": {
       "type": "string"
+    },
+    "poemId": {
+      "type": "uid"
     }
   }
 }
