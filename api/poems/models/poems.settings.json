@@ -26,7 +26,7 @@
       "type": "string"
     },
     "poemId": {
-      "type": "uid"
+      "type": "number"
     }
   }
 }
