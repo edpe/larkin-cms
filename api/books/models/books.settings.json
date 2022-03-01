@@ -21,6 +21,12 @@
     },
     "poems": {
       "collection": "poems"
+    },
+    "bookId": {
+      "type": "uid"
+    },
+    "created": {
+      "type": "date"
     }
   }
 }
